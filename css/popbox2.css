@@ -44,6 +44,7 @@ html.popbox_locked{
 	margin-right:auto;
 	background:#fff;
 	max-width:400px;
+	text-align:left;
 }
 
 
@@ -66,6 +67,9 @@ margin-bottom: 10px;
     border-color: transparent;
     margin-right: 12px;
     color:#7a7aff;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
 }
 .popbox button:last-child{
 margin-right: 0px;
