@@ -75,9 +75,6 @@ margin-bottom: 10px;
 .popbox button:last-child{
 margin-right: 0px;
 }
-.popbox .danger{
-    color: #000;
-}
 
 /*
 [data-popbox-id="modal1"] .popbox_container{
