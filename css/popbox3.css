@@ -70,6 +70,7 @@ margin-bottom: 10px;
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 1px;
+    float:right;
 }
 .popbox button:last-child{
 margin-right: 0px;
