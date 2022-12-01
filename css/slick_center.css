@@ -1,3 +1,10 @@
+.slick_center:not(.slick-initialized) .w-dyn-item{
+    display: block;
+    float: left;
+    width: 33.33%;
+    padding: 0px 15px;
+}
+
 .slick_center .slick-slide {
     opacity: 0.5;
     margin: 15px;
