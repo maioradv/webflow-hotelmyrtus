@@ -25,10 +25,10 @@ html.popbox_locked{
 	height: 100%;
 	top: 0;
 	left: 0;
-    will-change: opacity;
-    transition:opacity 0.3s ease;
-    opacity:0;
-    will-change: opacity;
+    	will-change: opacity;
+    	transition:opacity 0.3s ease;
+    	opacity:0;
+    	will-change: opacity;
 	background: rgba(60, 52, 66, 0.7);
 	padding:18px;
 	padding-top:5%;
