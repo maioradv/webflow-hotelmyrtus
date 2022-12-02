@@ -29,7 +29,7 @@ html.popbox_locked{
     	transition:opacity 0.3s ease;
     	opacity:0;
     	will-change: opacity;
-	background: rgba(60, 52, 66, 0.7);
+	background: rgba(0, 0, 0, 0.7);
 	padding:18px;
 	padding-top:5%;
 	overflow-y: auto;
