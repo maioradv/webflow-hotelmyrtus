@@ -44,14 +44,14 @@
 	font-size:0px;
 }
 
-@media (max-width: 576px){
-	.slick_center:not(.slick-initialized) .w-dyn-item{
-	    width: 100%;
-	}	
-}
-
 @media (max-width: 768px){
 	.slick_center:not(.slick-initialized) .w-dyn-item{
 	    width: 50%;
+	}	
+}
+
+@media (max-width: 576px){
+	.slick_center:not(.slick-initialized) .w-dyn-item{
+	    width: 100%;
 	}	
 }
